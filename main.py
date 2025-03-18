@@ -341,7 +341,7 @@ def main():
         "Argo Workflows","particle.js","ROS","Gazebo","BuildBot","Solidity","TailwindCSS","SMACSS",
         "Tauri","Astro","SvelteKit","Qwik","MobX","SolidJS","SAML","Kerberos","SSO","ABAP",
         "SAP HANA","Nuxt 3","Firebase","Firestore","Web3","Gatsby","VIM","ThreeJS","GLSL","JAMStack",
-        "Elm","Webpack","LevelDB", "Discord.js"
+        "Elm","Webpack","LevelDB", "Discord.js", "Star Schema", "Waterfall"
     ]
     
     special_regex_skills = {
